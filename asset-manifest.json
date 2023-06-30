@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-abhinand/static/css/main.4ecee09c.css",
-    "main.js": "/portfolio-abhinand/static/js/main.c1d968bd.js",
+    "main.css": "/portfolio-abhinand/static/css/main.19e93d83.css",
+    "main.js": "/portfolio-abhinand/static/js/main.b2f9857e.js",
     "static/media/hero-img.png": "/portfolio-abhinand/static/media/hero-img.1b1c68f0831ff481b3a3.png",
     "static/media/download-icon.png": "/portfolio-abhinand/static/media/download-icon.d759ccf3d9b8d0fb60b1.png",
     "static/media/my-cv.pdf": "/portfolio-abhinand/static/media/my-cv.4f3875e8abac3d32f549.pdf",
@@ -11,11 +11,11 @@
     "static/media/close-btn.png": "/portfolio-abhinand/static/media/close-btn.785aa15ad2021922596e.png",
     "static/media/react.png": "/portfolio-abhinand/static/media/react.fe0c453bdb08f8592b23.png",
     "index.html": "/portfolio-abhinand/index.html",
-    "main.4ecee09c.css.map": "/portfolio-abhinand/static/css/main.4ecee09c.css.map",
-    "main.c1d968bd.js.map": "/portfolio-abhinand/static/js/main.c1d968bd.js.map"
+    "main.19e93d83.css.map": "/portfolio-abhinand/static/css/main.19e93d83.css.map",
+    "main.b2f9857e.js.map": "/portfolio-abhinand/static/js/main.b2f9857e.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ecee09c.css",
-    "static/js/main.c1d968bd.js"
+    "static/css/main.19e93d83.css",
+    "static/js/main.b2f9857e.js"
   ]
 }
