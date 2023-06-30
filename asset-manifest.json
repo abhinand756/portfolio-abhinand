@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio-abhinand/static/css/main.4ecee09c.css",
+    "main.js": "/portfolio-abhinand/static/js/main.c1d968bd.js",
+    "static/media/hero-img.png": "/portfolio-abhinand/static/media/hero-img.1b1c68f0831ff481b3a3.png",
+    "static/media/download-icon.png": "/portfolio-abhinand/static/media/download-icon.d759ccf3d9b8d0fb60b1.png",
+    "static/media/my-cv.pdf": "/portfolio-abhinand/static/media/my-cv.4f3875e8abac3d32f549.pdf",
+    "static/media/dp.jpg": "/portfolio-abhinand/static/media/dp.63f2af2898ff03f12587.jpg",
+    "static/media/portfolio-logo.png": "/portfolio-abhinand/static/media/portfolio-logo.0864ae29a1dffd57b0cf.png",
+    "static/media/css.jpg": "/portfolio-abhinand/static/media/css.093cd3c708da1ae26c23.jpg",
+    "static/media/close-btn.png": "/portfolio-abhinand/static/media/close-btn.785aa15ad2021922596e.png",
+    "static/media/react.png": "/portfolio-abhinand/static/media/react.fe0c453bdb08f8592b23.png",
+    "index.html": "/portfolio-abhinand/index.html",
+    "main.4ecee09c.css.map": "/portfolio-abhinand/static/css/main.4ecee09c.css.map",
+    "main.c1d968bd.js.map": "/portfolio-abhinand/static/js/main.c1d968bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ecee09c.css",
+    "static/js/main.c1d968bd.js"
+  ]
+}
