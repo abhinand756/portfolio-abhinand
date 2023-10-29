@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.b5f81ee4.css",
-    "main.js": "/static/js/main.2fc783ee.js",
-    "static/media/hero-img.png": "/static/media/hero-img.1b1c68f0831ff481b3a3.png",
-    "static/media/download-icon.png": "/static/media/download-icon.d759ccf3d9b8d0fb60b1.png",
-    "static/media/my-cv.pdf": "/static/media/my-cv.655d531b19064eb768b1.pdf",
-    "static/media/dp.jpg": "/static/media/dp.63f2af2898ff03f12587.jpg",
-    "static/media/portfolio-logo.png": "/static/media/portfolio-logo.0864ae29a1dffd57b0cf.png",
-    "static/media/css.jpg": "/static/media/css.093cd3c708da1ae26c23.jpg",
-    "static/media/close-btn.png": "/static/media/close-btn.785aa15ad2021922596e.png",
-    "static/media/react.png": "/static/media/react.fe0c453bdb08f8592b23.png",
-    "index.html": "/index.html",
-    "main.b5f81ee4.css.map": "/static/css/main.b5f81ee4.css.map",
-    "main.2fc783ee.js.map": "/static/js/main.2fc783ee.js.map"
+    "main.css": "/abhinand756/portfolio-abhinand.git/static/css/main.b5f81ee4.css",
+    "main.js": "/abhinand756/portfolio-abhinand.git/static/js/main.e4819efc.js",
+    "static/media/hero-img.png": "/abhinand756/portfolio-abhinand.git/static/media/hero-img.1b1c68f0831ff481b3a3.png",
+    "static/media/download-icon.png": "/abhinand756/portfolio-abhinand.git/static/media/download-icon.d759ccf3d9b8d0fb60b1.png",
+    "static/media/my-cv.pdf": "/abhinand756/portfolio-abhinand.git/static/media/my-cv.655d531b19064eb768b1.pdf",
+    "static/media/dp.jpg": "/abhinand756/portfolio-abhinand.git/static/media/dp.63f2af2898ff03f12587.jpg",
+    "static/media/portfolio-logo.png": "/abhinand756/portfolio-abhinand.git/static/media/portfolio-logo.0864ae29a1dffd57b0cf.png",
+    "static/media/css.jpg": "/abhinand756/portfolio-abhinand.git/static/media/css.093cd3c708da1ae26c23.jpg",
+    "static/media/close-btn.png": "/abhinand756/portfolio-abhinand.git/static/media/close-btn.785aa15ad2021922596e.png",
+    "static/media/react.png": "/abhinand756/portfolio-abhinand.git/static/media/react.fe0c453bdb08f8592b23.png",
+    "index.html": "/abhinand756/portfolio-abhinand.git/index.html",
+    "main.b5f81ee4.css.map": "/abhinand756/portfolio-abhinand.git/static/css/main.b5f81ee4.css.map",
+    "main.e4819efc.js.map": "/abhinand756/portfolio-abhinand.git/static/js/main.e4819efc.js.map"
   },
   "entrypoints": [
     "static/css/main.b5f81ee4.css",
-    "static/js/main.2fc783ee.js"
+    "static/js/main.e4819efc.js"
   ]
 }
